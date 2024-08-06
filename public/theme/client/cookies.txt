@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+webredox.net	TRUE	/demo/wp/gmag/	FALSE	1999999999	woocommerce_items_in_cart	1
+webredox.net	TRUE	/demo/wp/gmag/	FALSE	1999999999	wp_woocommerce_session_136ca26095a4c00d3fc36d2fb3eb2dbe	t_3bd88cc036ccced5e52208196ea9aa%7C%7C1720408430%7C%7C1720404830%7C%7C12dd2c32389dc1a5492e5de44183ce40
+webredox.net	TRUE	/demo/wp/gmag/	FALSE	1999999999	woocommerce_cart_hash	a00ecd7139a1df259b630c658f845011
+

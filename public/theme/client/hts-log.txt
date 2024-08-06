@@ -1,0 +1,135 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 06 Jul 2024 10:11:32 at https://webredox.net/demo/wp/gmag/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://webredox.net/demo/wp/gmag/ -O1 "D:\blog_1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:14:09	Error: 	"Not Found" (404) at link https://webredox.net/demo/wp/gmag/404 (from https://webredox.net/demo/wp/gmag/)
+10:15:46	Error: 	"Not Found" (404) at link https://webredox.net/demo/wp/gmag/category.html (from https://webredox.net/demo/wp/gmag/)
+10:16:28	Error: 	"Not Found" (404) at link https://webredox.net/demo/wp/gmag/wp-content/themes/gmag/includes/img/vimeo-play.png (from https://webredox.net/demo/wp/gmag/wp-content/cache/minify/9ba46.css)
+10:16:28	Error: 	"Not Found" (404) at link https://webredox.net/demo/wp/gmag/wp-content/themes/gmag/includes/img/video-play.png (from https://webredox.net/demo/wp/gmag/wp-content/cache/minify/9ba46.css)
+10:16:28	Error: 	"Not Found" (404) at link https://webredox.net/demo/wp/gmag/wp-content/themes/gmag/includes/img/youtube-play.png (from https://webredox.net/demo/wp/gmag/wp-content/cache/minify/9ba46.css)
+10:16:28	Error: 	"Not Found" (404) at link https://webredox.net/demo/wp/gmag/wp-content/themes/gmag/includes/images/bg/7.jpg (from https://webredox.net/demo/wp/gmag/wp-content/cache/minify/9ba46.css)
+10:16:28	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=16
+10:16:28	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=16 to https://webredox.net/demo/wp/gmag/innovations-that-bring-pleasure-to-all-peoples/
+10:16:29	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=43
+10:16:29	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=43 to https://webredox.net/demo/wp/gmag/heres-the-proof-that-momentum-strategies-work/
+10:16:29	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=61
+10:16:29	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=61 to https://webredox.net/demo/wp/gmag/how-maps-reshape-american-politics-in-world/
+10:16:29	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=64
+10:16:29	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=64 to https://webredox.net/demo/wp/gmag/first-prototype-flight-using-kinetic-launch-system/
+10:16:29	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=594
+10:16:29	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=594 to https://webredox.net/demo/wp/gmag/carousel/
+10:16:29	Error: 	"Not Found" (404) at link https://webredox.net/demo/wp/gmag/carousel/category.html (from https://webredox.net/demo/wp/gmag/carousel/)
+10:16:29	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=596
+10:16:29	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=596 to https://webredox.net/demo/wp/gmag/grid/
+10:16:29	Error: 	"Not Found" (404) at link https://webredox.net/demo/wp/gmag/grid/category.html (from https://webredox.net/demo/wp/gmag/grid/)
+10:16:30	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=343
+10:16:30	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=343 to https://webredox.net/demo/wp/gmag/blog-list-style/
+10:16:30	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=346
+10:16:30	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=346 to https://webredox.net/demo/wp/gmag/blog-list-style-2/
+10:16:30	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=350
+10:16:30	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=350 to https://webredox.net/demo/wp/gmag/blog-fullwidth/
+10:16:30	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=353
+10:16:30	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=353 to https://webredox.net/demo/wp/gmag/blog-grid-style/
+10:16:30	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=279
+10:16:30	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=279 to https://webredox.net/demo/wp/gmag/london-stay-most-popular-city/
+10:16:30	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=624
+10:16:30	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=624 to https://webredox.net/demo/wp/gmag/business/
+10:16:31	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=626
+10:16:31	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=626 to https://webredox.net/demo/wp/gmag/technology/
+10:17:14	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=426
+10:17:14	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=426 to https://webredox.net/demo/wp/gmag/product/awesome-merch-wallet/
+10:17:18	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=365
+10:17:18	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=365 to https://webredox.net/demo/wp/gmag/about/
+10:17:18	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=383
+10:17:18	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=383 to https://webredox.net/demo/wp/gmag/contacts/
+10:17:18	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=238
+10:17:18	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=238 to https://webredox.net/demo/wp/gmag/what-the-federal-infrastructure-package-means-for-minnesota/
+10:17:18	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=272
+10:17:18	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=272 to https://webredox.net/demo/wp/gmag/additional-jobs-and-economic-growth-after-the-pandemic/
+10:17:19	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=68
+10:17:19	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=68 to https://webredox.net/demo/wp/gmag/perfect-james-webb-telescope-on-track-for-launch/
+10:17:19	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=192
+10:17:19	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=192 to https://webredox.net/demo/wp/gmag/videos-show-spacexs-dragon-capsule-as-it-returns-to-earth/
+10:17:19	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=217
+10:17:19	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=217 to https://webredox.net/demo/wp/gmag/cape-towns-day-zero-we-are-axing-trees-to-save-water/
+10:17:19	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=154
+10:17:19	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=154 to https://webredox.net/demo/wp/gmag/oculus-in-trending-now/
+10:17:20	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=76
+10:17:20	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=76 to https://webredox.net/demo/wp/gmag/perfect-james-webb-telescope-on-track-for-launch-copy/
+10:17:20	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=148
+10:17:20	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=148 to https://webredox.net/demo/wp/gmag/london-stay-most-popular-city-2/
+10:17:20	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=276
+10:17:20	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=276 to https://webredox.net/demo/wp/gmag/scientific-research-goes-to-the-next-level/
+10:17:20	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=285
+10:17:20	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=285 to https://webredox.net/demo/wp/gmag/options-options-as-clock-ticks-on-climate-talks/
+10:17:21	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=72
+10:17:21	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=72 to https://webredox.net/demo/wp/gmag/sports-tag-club-competition-returns/
+10:17:21	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=189
+10:17:21	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=189 to https://webredox.net/demo/wp/gmag/warriors-face-season-defining-clash/
+10:17:21	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=211
+10:17:21	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=211 to https://webredox.net/demo/wp/gmag/female-hawks-win-10000-funding-boost/
+10:17:21	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=247
+10:17:21	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=247 to https://webredox.net/demo/wp/gmag/goodwin-must-break-clarkson-hold/
+10:17:22	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=308
+10:17:22	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=308 to https://webredox.net/demo/wp/gmag/sports-season-ends-with-more-surprises/
+10:17:22	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=180
+10:17:22	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=180 to https://webredox.net/demo/wp/gmag/how-to-start-home-renovation/
+10:17:22	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=243
+10:17:22	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=243 to https://webredox.net/demo/wp/gmag/high-wind-delays-spacex-crew-homecoming-after-6-months-aloft/
+10:17:22	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=289
+10:17:22	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=289 to https://webredox.net/demo/wp/gmag/climate-change-and-your-future-health/
+10:17:23	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=263
+10:17:23	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=263 to https://webredox.net/demo/wp/gmag/new-vr-glasses-and-headset-system-release/
+10:17:24	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=293
+10:17:24	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=293 to https://webredox.net/demo/wp/gmag/envatocoin-vulnerable-to-retest-20k-support/
+10:17:24	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=296
+10:17:24	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=296 to https://webredox.net/demo/wp/gmag/videos-show-spacexs-dragon-capsule-as-it-returns-to-earth-2/
+10:17:24	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=311
+10:17:24	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=311 to https://webredox.net/demo/wp/gmag/world-electric-ready-to-race-tomorrow/
+10:17:25	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=54
+10:17:25	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=54 to https://webredox.net/demo/wp/gmag/shop/refund_returns/
+10:17:25	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=3
+10:17:25	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=3 to https://webredox.net/demo/wp/gmag/shop/privacy-policy/
+10:17:25	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=53
+10:17:25	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=53 to https://webredox.net/demo/wp/gmag/shop/my-account/
+10:17:25	Error: 	"Not Found" (404) at link https://webredox.net/demo/wp/gmag/-negative.svg (from https://webredox.net/demo/wp/gmag/wp-content/cache/minify/58a4d.js)
+10:17:25	Error: 	"Not Found" (404) at link https://webredox.net/demo/wp/gmag/OPR/ (from https://webredox.net/demo/wp/gmag/wp-content/cache/minify/58a4d.js)
+10:17:33	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=431
+10:17:33	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=431 to https://webredox.net/demo/wp/gmag/product/awesome-merch-wallet-copy/
+10:17:33	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=433
+10:17:33	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=433 to https://webredox.net/demo/wp/gmag/product/compact-merch-box/
+10:17:33	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=437
+10:17:33	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=437 to https://webredox.net/demo/wp/gmag/product/storage-double-jars/
+10:17:33	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=439
+10:17:33	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=439 to https://webredox.net/demo/wp/gmag/product/merch-tea-cup/
+10:17:33	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=441
+10:17:33	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=441 to https://webredox.net/demo/wp/gmag/product/impact-merch-banner/
+10:17:36	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=51
+10:17:36	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=51 to https://webredox.net/demo/wp/gmag/shop/cart/
+10:17:36	Warning: 	Found for https://webredox.net/demo/wp/gmag/shop/cart/?remove_item=66368270ffd51418ec58bd793f2d9b1b&_wpnonce=7e5e45456a
+10:17:36	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/shop/cart/?remove_item=66368270ffd51418ec58bd793f2d9b1b&_wpnonce=7e5e45456a to http://webredox.net/demo/wp/gmag/shop/cart/?removed_item=1
+10:17:36	Warning: 	Found for https://webredox.net/demo/wp/gmag/shop/cart/?remove_item=fccb60fb512d13df5083790d64c4d5dd&_wpnonce=7e5e45456a
+10:17:36	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/shop/cart/?remove_item=fccb60fb512d13df5083790d64c4d5dd&_wpnonce=7e5e45456a to http://webredox.net/demo/wp/gmag/shop/cart/?removed_item=1
+10:17:36	Warning: 	Found for https://webredox.net/demo/wp/gmag/shop/cart/?remove_item=eed5af6add95a9a6f1252739b1ad8c24&_wpnonce=7e5e45456a
+10:17:36	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/shop/cart/?remove_item=eed5af6add95a9a6f1252739b1ad8c24&_wpnonce=7e5e45456a to http://webredox.net/demo/wp/gmag/shop/cart/?removed_item=1
+10:17:36	Warning: 	Found for https://webredox.net/demo/wp/gmag/shop/cart/?remove_item=15d4e891d784977cacbfcbb00c48f133&_wpnonce=7e5e45456a
+10:17:36	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/shop/cart/?remove_item=15d4e891d784977cacbfcbb00c48f133&_wpnonce=7e5e45456a to http://webredox.net/demo/wp/gmag/shop/cart/?removed_item=1
+10:17:42	Warning: 	Moved Permanently for webredox.net/robots.txt
+10:17:42	Warning: 	Redirected link is identical because of 'URL Hack' option: webredox.net/robots.txt and https://webredox.net/robots.txt
+10:17:42	Warning: 	Warning moved treated for webredox.net/robots.txt (real one is https://webredox.net/robots.txt)
+10:17:42	Warning: 	Moved Permanently for webredox.net/demo/wp/gmag/shop/cart/?removed_item=1
+10:17:42	Warning: 	Redirected link is identical because of 'URL Hack' option: webredox.net/demo/wp/gmag/shop/cart/?removed_item=1 and https://webredox.net/demo/wp/gmag/shop/cart/?removed_item=1
+10:17:42	Warning: 	File has moved from webredox.net/demo/wp/gmag/shop/cart/?removed_item=1 to https://webredox.net/demo/wp/gmag/shop/cart/?removed_item=1
+10:17:42	Warning: 	Moved Permanently for https://webredox.net/demo/wp/gmag/?p=52
+10:17:42	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/?p=52 to https://webredox.net/demo/wp/gmag/shop/checkout/
+10:17:42	Warning: 	Found for https://webredox.net/demo/wp/gmag/shop/cart/?undo_item=66368270ffd51418ec58bd793f2d9b1b&_wpnonce=7e5e45456a
+10:17:42	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/shop/cart/?undo_item=66368270ffd51418ec58bd793f2d9b1b&_wpnonce=7e5e45456a to http://webredox.net/demo/wp/gmag/shop/checkout/
+10:17:42	Warning: 	Found for https://webredox.net/demo/wp/gmag/shop/cart/?undo_item=eed5af6add95a9a6f1252739b1ad8c24&_wpnonce=7e5e45456a
+10:17:42	Warning: 	File has moved from https://webredox.net/demo/wp/gmag/shop/cart/?undo_item=eed5af6add95a9a6f1252739b1ad8c24&_wpnonce=7e5e45456a to http://webredox.net/demo/wp/gmag/shop/checkout/
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 10 seconds : 707 links scanned, 640 files written (44793495 bytes overall) [20383008 bytes received at 55089 bytes/sec], 37250381 bytes transferred using HTTP compression in 507 files, ratio 32%, 16.8 requests per connection
+(10 errors, 114 warnings, 0 messages)
